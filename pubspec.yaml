@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   image_picker: ^0.8.0+3
   dio: ^4.0.0
+  screenshot: ^2.5.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -62,6 +64,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
      - 'web/assets/media/steps/1/FONDO.png'
+     - 'web/assets/media/steps/1/LOGO.png'
      - 'web/assets/media/steps/2/FONDO.png'
      - 'web/assets/media/steps/2/MANO-CELULAR.png'
      - 'web/assets/media/steps/2/DESCRIPCION.png'
@@ -76,8 +79,8 @@ flutter:
      - 'web/assets/media/steps/5/CHECK.png'
      - 'web/assets/media/steps/5/DESCRIPCION.png'
      - 'web/assets/media/steps/6/FONDO.png'
+     - 'web/assets/media/steps/6/LOGO-DERMA-SHARE1.png'
      - 'web/assets/media/steps/7/FONDO.png'
-     - 'web/assets/media/steps/1/LOGO.png'
 
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg

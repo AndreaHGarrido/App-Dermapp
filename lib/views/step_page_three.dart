@@ -53,7 +53,8 @@ class StepPageThree extends StatelessWidget {
     final pickedFile = await picker.getImage(source: ImageSource.gallery);
 
       if (pickedFile != null) {
-        Future.delayed(Duration(seconds: 5), () {
+
+        Future.delayed(Duration(seconds: 2), () {
           // Navigate to the next page
           Navigator.pushReplacement(
             context,
