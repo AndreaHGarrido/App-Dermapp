@@ -38,6 +38,8 @@ dependencies:
   image_picker: ^0.8.0+3
   dio: ^4.0.0
   screenshot: ^2.5.0
+  permission_handler: ^11.3.1
+  image_gallery_saver: ^2.0.3
 
 dev_dependencies:
   flutter_test:
@@ -81,6 +83,8 @@ flutter:
      - 'web/assets/media/steps/6/FONDO.png'
      - 'web/assets/media/steps/6/LOGO-DERMA-SHARE1.png'
      - 'web/assets/media/steps/7/FONDO.png'
+     - 'web/assets/media/steps/7/DOCTOR.png'
+     - 'web/assets/media/steps/7/HI.png'
 
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
